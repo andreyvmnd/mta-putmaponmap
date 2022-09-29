@@ -1,0 +1,6 @@
+<meta>
+    <script src="copy.lua" type="client" cache="false" />
+    <file src="up.map" />
+    <file src="down.map" />
+    <min_mta_version client="1.5.7-0.20397"></min_mta_version>
+</meta>
